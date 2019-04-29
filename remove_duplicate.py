@@ -1,3 +1,4 @@
+#Function to remove duplicate nos. in a list
 def remove (duplicate):
     nlst = []
     for word in duplicate:
